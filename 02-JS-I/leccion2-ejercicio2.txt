@@ -1,0 +1,6 @@
+una variable es un lugar donde guardar un nombre, numero,etc; para encontralo luego cuando quiera usarlo.-
+Strings: es una palabra, un texto, que contiene letras, números.. encerrado entre comillas y se vera tal cual lo escribimos.
+Funciones (argumentos, return) una función es grupo de instrucciones que se agrupan para realizar una tarea. se pueden utilizar muchas veces por eso es útil, lleva un nombre para identificarla y llamarla cuando la necesitamos. utiliza parentesis y dentro de ellos pueden ir los arguentos que
+puede ser variables o datos a utilizar. para poder "sacar" el resultado de una función usamos Return. return se ejecuta una sola vez. todo lo que este antes del retrurn se ejecuta. lo escrito luego del retunr No será tenido en cuenta.-
+Declaraciones if = podemos hacer preguntas con if, y obtener resultados verdaderos o falsos. asu vez puedo hacer una `pregunta con if y luego otra de acuerdo ala respuesta de la primera.-
+Valores booleanos (true, false) = son valores lógicos que pueden tener dos formas.. verdadero o falso... 
