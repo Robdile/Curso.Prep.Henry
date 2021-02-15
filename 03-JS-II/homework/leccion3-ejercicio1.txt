@@ -1,0 +1,6 @@
+La expresión for permite realizar acciones repetitivas, dentro de su "circulo", hasta que se cumpla una condicion establecida, lo cual hace que salga del circulo.
+dentro de For necesitamos una variable que ssume cada vez que se realice una vuelta en ese circulo.-
+Operadores lógicos:
+&& = representa  al condicional "Y", ej: hoy está nublado Y caluroso.-
+|| = representa la expresión "O", Ej: jugamos al futbol O al basquet??
+! = es un signo que representa Negación, Ej : NO (!) es necesario..
