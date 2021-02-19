@@ -232,7 +232,6 @@ function breakStatement(numero) {
   }
 }
 
-
 function continueStatement(numero) {
   //Iterar en un bucle aumentando en 2 el numero recibido hasta un límite de 10 veces.
   //Guardar cada nuevo valor en un array.    
@@ -251,7 +250,6 @@ function continueStatement(numero) {
   }
   return array;
 }
-
 
 // No modificar nada debajo de esta línea
 // --------------------------------
