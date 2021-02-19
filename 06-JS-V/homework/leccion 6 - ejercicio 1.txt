@@ -1,0 +1,2 @@
+prototype: podemos definirlo como las propiedades principales de un objeto que serán utilizadas por los demas objetos que se puedan crear.-
+Constructors: se llama al código (instrucciones) que se ejecutan cuando se crea un objeto de un tipo determinado.- 

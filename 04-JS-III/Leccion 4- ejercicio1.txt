@@ -1,0 +1,1 @@
+Array es un lugar donde guardamos numeros, palabras, en forma ordenada uno al lado del otro.-
